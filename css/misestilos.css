@@ -1,1 +1,19 @@
-body{background-color: antiquewhite;}
+/*body{background-color: antiquewhite;}*/
+ul li {display: inline;}
+
+.container{ background-color: #999;}
+/* .header{ 
+    border:1em;
+    background-color:#990000;
+} */
+/*.cuerpo{background-color: aqua;}*/
+
+
+#op1, #op2,#op3{text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;}
